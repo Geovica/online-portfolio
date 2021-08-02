@@ -1,0 +1,28 @@
+
+
+
+:root{
+    --main-color:#e02f6b;
+    --blue: #0000ff;
+    --blue-dark: #18293c;
+    --orage: #ffa500;
+    --green-yellow: #cddc39;
+    --pink-light: #efa2b4;
+    --cyan-light:rgb(162, 252, 255) ;
+    --white-alpha-40: rgba(255, 255, 255, 0.40);
+    --white-alpha-25: rgba(255, 255, 255, 0.25);
+    
+
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+::before,
+::after{
+    box-sizing: border-box;
+}
